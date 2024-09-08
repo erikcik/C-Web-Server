@@ -1,0 +1,5 @@
+gzip -k -r html && mv ./html/*.gz ./gzipHtml
+gzip -k index.html
+gzip -k -r styles
+
+gcc -I/usr/include/mysql -L/usr/lib/mysql -o cgi.exe CGI.c -lmysqlclient

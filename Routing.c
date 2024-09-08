@@ -20,7 +20,7 @@ struct binaryTreeStruct * createBinaryTree(char* routeName, char* routePath){
     strcpy(node->routePath, routePath);
     node->left = node->right = NULL;
     return node;
-};
+}
 
 struct binaryTreeStruct * searchRoute(struct binaryTreeStruct *root, char *routeName){
     if(root == NULL || strcmp(root->routeName,routeName) == 0) {
@@ -55,3 +55,13 @@ void postOrder(struct binaryTreeStruct *node) {
     } 
 }
 
+void freeBinaryTree(struct binaryTreeStruct *node) {
+    if (node == NULL) {
+        return;
+    }
+    freeBinaryTree(node->left);
+    freeBinaryTree(node->right);
+    free(node->routeName);
+    free(node->routePath);
+    free(node);
+}

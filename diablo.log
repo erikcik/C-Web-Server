@@ -1,0 +1,91 @@
+LOG: info; GET: request made to index.html.gz, pid: 17718 ----------------------------------
+LOG: info; GET: request made to styles/styles.css.gz, pid: 17720 ----------------------------------
+LOG: info; GET: request made to index.html.gz, pid: 17980 ----------------------------------
+LOG: info; GET: request made to styles/styles.css.gz, pid: 18115 ----------------------------------
+LOG: info; GET: request made to index.html.gz, pid: 18547 ----------------------------------
+LOG: info; GET: request made to styles/styles.css.gz, pid: 18548 ----------------------------------
+LOG: info; GET: request made to index.html.gz, pid: 18969 ----------------------------------
+LOG: info; GET: request made to styles/styles.css.gz, pid: 18974 ----------------------------------
+LOG: info; GET: request made to index.html.gz, pid: 19242 ----------------------------------
+LOG: info; GET: request made to styles/styles.css.gz, pid: 19247 ----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 19303, ip adress: 127.0.0.1----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 19315, ip adress: 127.0.0.1----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 19316, ip adress: 127.0.0.1----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 19317, ip adress: 127.0.0.1----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 19318, ip adress: 127.0.0.1----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 19319, ip adress: 127.0.0.1----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 19320, ip adress: 127.0.0.1----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 19321, ip adress: 127.0.0.1----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 19322, ip adress: 127.0.0.1----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 19323, ip adress: 127.0.0.1----------------------------------
+LOG: info; GET: request made to index.html.gz, pid: 19814 ----------------------------------
+LOG: info; GET: request made to styles/styles.css.gz, pid: 19835 ----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 19879, ip adress: 127.0.0.1----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 19898, ip adress: 127.0.0.1----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 19901, ip adress: 127.0.0.1----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 19902, ip adress: 127.0.0.1----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 19904, ip adress: 127.0.0.1----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 19906, ip adress: 127.0.0.1----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 19907, ip adress: 127.0.0.1----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 19910, ip adress: 127.0.0.1----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 19911, ip adress: 127.0.0.1----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 19913, ip adress: 127.0.0.1----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 20785, ip adress: 127.0.0.1, time: now: 2024-07-13 10:54:13
+----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 20786, ip adress: 127.0.0.1, time: now: 2024-07-13 10:54:13
+----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 20787, ip adress: 127.0.0.1, time: now: 2024-07-13 10:54:13
+----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 20788, ip adress: 127.0.0.1, time: now: 2024-07-13 10:54:13
+----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 20789, ip adress: 127.0.0.1, time: now: 2024-07-13 10:54:13
+----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 20790, ip adress: 127.0.0.1, time: now: 2024-07-13 10:54:13
+----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 20791, ip adress: 127.0.0.1, time: now: 2024-07-13 10:54:13
+----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 20792, ip adress: 127.0.0.1, time: now: 2024-07-13 10:54:13
+----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 20793, ip adress: 127.0.0.1, time: now: 2024-07-13 10:54:13
+----------------------------------
+ERROR: message; Error happened while opening the file : No such file or directory, errno: 2, exiting pid: 20794, ip adress: 127.0.0.1, time: now: 2024-07-13 10:54:13
+----------------------------------
+LOG: info; GET: request made to index.html.gz, pid: 20961 ----------------------------------
+LOG: info; GET: request made to styles/styles.css.gz, pid: 20963 ----------------------------------
+----------------------------------
+LOG: info; GET: request made to index.html.gz, pid: 6485 ----------------------------------
+LOG: info; GET: request made to styles/styles.css.gz, pid: 6492 ----------------------------------
+----------------------------------
+LOG: info; GET: request made to index.html.gz, pid: 7009 ----------------------------------
+LOG: info; GET: request made to styles/styles.css.gz, pid: 7010 ----------------------------------
+----------------------------------
+LOG: info; GET: request made to index.html.gz, pid: 7892 ----------------------------------
+LOG: info; GET: request made to styles/styles.css.gz, pid: 7898 ----------------------------------
+LOG: info; GET: request made to index.html.gz, pid: 7945 ----------------------------------
+LOG: info; GET: request made to styles/styles.css.gz, pid: 7946 ----------------------------------
+----------------------------------
+LOG: info; GET: request made to index.html.gz, pid: 7948 ----------------------------------
+LOG: info; GET: request made to styles/styles.css.gz, pid: 7957 ----------------------------------
+----------------------------------
+LOG: info; GET: request made to index.html.gz, pid: 7959 ----------------------------------
+LOG: info; GET: request made to styles/styles.css.gz, pid: 7960 ----------------------------------
+----------------------------------
+LOG: info; GET: request made to index.html.gz, pid: 7962 ----------------------------------
+LOG: info; GET: request made to styles/styles.css.gz, pid: 7963 ----------------------------------
+----------------------------------
+LOG: info; GET: request made to index.html.gz, pid: 7965 ----------------------------------
+LOG: info; GET: request made to styles/styles.css.gz, pid: 7966 ----------------------------------
+----------------------------------
+LOG: info; GET: request made to index.html.gz, pid: 7968 ----------------------------------
+LOG: info; GET: request made to styles/styles.css.gz, pid: 7969 ----------------------------------
+----------------------------------
+LOG: info; GET: request made to index.html.gz, pid: 7971 ----------------------------------
+LOG: info; GET: request made to styles/styles.css.gz, pid: 7972 ----------------------------------
+----------------------------------
+LOG: info; GET: request made to index.html.gz, pid: 8145 ----------------------------------
+LOG: info; GET: request made to styles/styles.css.gz, pid: 8146 ----------------------------------
+----------------------------------
+LOG: info; GET: request made to index.html.gz, pid: 8237 ----------------------------------
+LOG: info; GET: request made to index.html.gz, pid: 8267 ----------------------------------
+LOG: info; GET: request made to styles/styles.css.gz, pid: 8268 ----------------------------------
+----------------------------------

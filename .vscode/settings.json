@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "zlib.h": "c",
+        "string.h": "c",
+        "assert.h": "c",
+        "regex.h": "c",
+        "stdio.h": "c",
+        "stat.h": "c",
+        "types.h": "c",
+        "fcntl.h": "c",
+        "mysql.h": "c",
+        "CGI2.C": "cpp",
+        "sstream": "cpp",
+        "regex": "cpp"
+    }
+}
